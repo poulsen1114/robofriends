@@ -8,15 +8,15 @@ To run the application locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/robofriends.git
+`git clone https://github.com/your-username/robofriends.git`
 
 2. Install the required dependencies using npm:
 
-npm install
+`npm install`
 
 3. Start the development server:
 
-npm start
+`npm start`
 
 
 The application should now be running on http://localhost:3000.
